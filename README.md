@@ -5,7 +5,7 @@
 * Welcome to the Unstop Assignment Train Ticket Booking App! This web application allows users to book train * tickets, view their booked seats, and reset selections as needed.
 
 ### Deployed Application
-> • Live Recording - [Assignment]( https://unstop-assignment-talib.netlify.app/)
+> • Live Link - [Live]( https://unstop-assignment-talib.netlify.app/)
 ### Features
 * Easy and intuitive train seat booking.
 * Booking limit of up to 7 seats at a time.
@@ -21,7 +21,7 @@
 
 
 ### Installation
-* Clone the repository: git clone https://github.com/talib808/unstop-assignment.git
+* Clone the repository: git clone https://github.com/talib808/Full-Stack-Unstop-Assignment.git
 * Navigate to the project folder: cd Full-Stack-Unstop-Assignment
 * Install frontend dependencies: cd frontend && npm install
 * Install backend dependencies: cd backend && npm install
